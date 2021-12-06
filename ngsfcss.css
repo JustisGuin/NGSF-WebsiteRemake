@@ -46,3 +46,6 @@ nav > li > a:focus {
 .nav.navbar-nav.navbar-right li a {
     color: blue;
 }
+body{
+    background-attachment: fixed;
+}
